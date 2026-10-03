@@ -1,0 +1,10 @@
+2026-10-03 23:00:38,204 | ERROR | Yazar işlenemedi https://openalex.org/A5051978835: sequence item 4: expected str instance, NoneType found
+2026-10-03 23:00:52,218 | WARNING | HTTP 504, 2.1s bekleniyor (https://api.openalex.org/authors)
+2026-10-03 23:02:47,074 | ERROR | Yazar işlenemedi https://openalex.org/A5106483754: sequence item 8: expected str instance, NoneType found
+2026-10-03 23:03:52,145 | ERROR | Yazar işlenemedi https://openalex.org/A5051580622: sequence item 0: expected str instance, NoneType found
+2026-10-03 23:05:22,797 | ERROR | Yazar işlenemedi https://openalex.org/A5020570635: sequence item 1: expected str instance, NoneType found
+2026-10-03 23:12:28,928 | ERROR | Yazar işlenemedi https://openalex.org/A5020649787: sequence item 1: expected str instance, NoneType found
+2026-10-03 23:14:12,462 | ERROR | Yazar işlenemedi https://openalex.org/A5047998075: sequence item 0: expected str instance, NoneType found
+2026-10-03 23:16:59,499 | ERROR | Yazar işlenemedi https://openalex.org/A5089662006: sequence item 1: expected str instance, NoneType found
+2026-10-03 23:17:33,641 | ERROR | Yazar işlenemedi https://openalex.org/A5018030990: sequence item 0: expected str instance, NoneType found
+2026-10-03 23:17:41,968 | ERROR | Yazar işlenemedi https://openalex.org/A5054677940: sequence item 0: expected str instance, NoneType found
